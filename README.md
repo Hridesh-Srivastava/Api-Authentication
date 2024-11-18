@@ -16,7 +16,7 @@ This repository demonstrates four types of API authentication methods:
 
 1. **Clone the repository:**  
    ```
- git clone https://github.com/Hridesh-Srivastava/Api-Authentication.git
+   git clone https://github.com/Hridesh-Srivastava/Api-Authentication.git
 
 2. **Navigate to the project directory:**   
 ```
