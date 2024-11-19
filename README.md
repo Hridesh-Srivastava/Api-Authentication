@@ -6,13 +6,13 @@ This repository demonstrates four types of API authentication methods:
 3. API Key Authorization  
 4. Token-Based Authentication (non-JWT Bearer token)
 
-## Features  
+## Features:  
 - Simple implementation for learning purposes.  
 - Includes usage of EJS, Node.js, Express.js, CSS, and Axios.  
 
 ---
 
-## Setup Instructions  
+## Setup Instructions:  
 
 1. **Clone the repository:**  
    ```
