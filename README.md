@@ -4,7 +4,7 @@ This repository demonstrates four types of API authentication methods:
 1. No Authentication  
 2. Basic Authentication  
 3. API Key Authorization  
-4. Token-Based Authentication (non-JWT Bearer token)
+4. Token-Based Authentication (non-JWT Bearer Token)
 
 ## Features:  
 - Simple implementation for learning purposes.  
